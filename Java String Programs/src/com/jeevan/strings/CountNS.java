@@ -2,6 +2,7 @@ package com.jeevan.strings;
 
 public class CountNS {
 
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String word = "Hello Jeevan";
